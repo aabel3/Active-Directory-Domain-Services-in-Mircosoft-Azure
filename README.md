@@ -16,7 +16,6 @@ In this project, you will design and implement a complete Azure cloud infrastruc
 + Configuration steps with screenshots and commands
 
 🏗 Project Components:
-
 You will build the following Azure resources:
 + 1 Resource Group
 + 3 Virtual Networks
