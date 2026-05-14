@@ -3,6 +3,10 @@
 ### Video Recording Requirements
 
 Create a video demonstration (under 7 minutes) showing:
++ ⚠️ **Your video MUST have your camera and microphone on throughout.**
++ ⚠️ **The recording must clearly capture your CloudLab account (ODL account) and your computer's date and time.**
++ ⚠️ **Do NOT use an admin account to log into client-vm — use `azureuser` with your local credentials as required.**
+
 
 #### 1. Introduction (30 seconds)
 - Show your face on camera
